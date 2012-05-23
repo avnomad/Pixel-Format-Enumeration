@@ -1,0 +1,10 @@
+syntax: regexp
+Debug/*
+Release/*
+ipch/*
+syntax: glob
+Pixel Format Enumeration.opensdf
+Pixel Format Enumeration.sdf
+Pixel Format Enumeration.suo
+Pixel Format Enumeration/fields output.txt
+Pixel Format Enumeration/flags output.txt
